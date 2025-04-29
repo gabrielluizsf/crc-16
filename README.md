@@ -1,4 +1,4 @@
-# QR Code Encoder
+# CRC-16
 
 <img src="gopher.png" width="200" />
 
