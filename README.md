@@ -17,7 +17,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/r10r/crc16"
+	crc16 "github.com/i9si-sistemas/crc-16"
 )
 
 func main() {
